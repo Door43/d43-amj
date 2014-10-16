@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amj:home|Door43 (amj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amj|d43-amj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amj/archive/master.zip|d43-amj.zip]]
+
+**Recent Changes**
+{{changes>ns = amj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amj|Ethnologue data]]
+
